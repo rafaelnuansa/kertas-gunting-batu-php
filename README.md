@@ -7,4 +7,6 @@ Mip Saripudin<br>
 Jihan Fachrani<br>
 
 
-Algoritma dan Pemrograman (Ma’shum Abdul Jabbar, S.Kom, M.T.I)
+Algoritma dan Pemrograman (Ma’shum Abdul Jabbar, S.Kom, M.T.I)<br>
+
+RPS PHP With Bootstrap : https://github.com/rafaelnuansa/kertas-gunting-batu-php/
