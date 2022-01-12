@@ -1,4 +1,4 @@
-# kertas-gunting-batu-php
+# TUGAS KELOMPOK ALGORITMA DAN PEMROGRAMAN
 
 Rafael Nuansa Ramadhon<br>
 M Fajar Hikmatullah<br>
